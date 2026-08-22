@@ -1,7 +1,6 @@
 const questions = [
   {
     title: "Happy Birthday",
-    image:"cover.jpeg"
     message: "まずはここからスタート！",
     question: "「スタート」と入力してね。",
     answer: "スタート",

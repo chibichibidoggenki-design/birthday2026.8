@@ -1,7 +1,7 @@
 const questions = [
   {
     title: "🎉Happy Birthday🎉",
-    message: "もうすぐパーティーが始まるよ。仲間たちを招待しないと！",
+    message: "みんなを招待してパーティーを盛り上げよう！",
     question: "「スタート」と入力してね。",
     answer: "スタート",
     image: "cover.jpeg"

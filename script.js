@@ -11,49 +11,49 @@ const questions = [
     message: "この画像の場所に赤ちゃんマンたちがいるみたい！探し出して、メガネをかけているキャラクターの名前を入力してね。",
     question: "",
     answer: "ねむねむおじさん",
-    image: "images/q2.jpeg"
+    image: "q2.jpeg"
   },
   {
     title: "第3問",
     message: "正解！この画像の場所に食パンマンたちもいるみたいだよ！探し出して、泣いているキャラクターの名前を入力してね。",
     question: "",
     answer: "こきんちゃん",
-    image: "images/q3.jpeg"
+    image: "q3.jpeg"
   },
   {
     title: "第4問",
     message: "正解！他にもこの画像の場所にメロンパンナちゃんたちがいるみたい！探し出して、お姉ちゃんのキャラクターを入力してね。",
     question: "",
     answer: "ロールパンナ",
-    image: "images/q4.jpeg"
+    image: "q4.jpeg"
   },
   {
     title: "第5問",
     message: "正解！みんなをパーティーに招待できてよかった！\nでもまって、ドキンちゃんがまだ来てないよ。コキンちゃんが居場所を知る謎のヒントを知ってみたい。謎を解いてキーワードを入力しよう。",
     question: "",
     answer: "あかるくえがお",
-    image: "images/q5.png"
+    image: "q5.png"
   },
   {
     title: "第6問",
     message: "正解！ドキンちゃんはここにいるよ！\nドキンちゃんを見つけたら、ドキンちゃんと一緒にいたキャラクターの名前を入力してね。",
     question: "",
     answer: "クリームパンダ",
-    image: "images/q6.jpeg"
+    image: "q6.jpeg"
   },
   {
     title: "第7問",
     message: "ドキンちゃんとクリームパンダも来たね！もうみんな来たかな？\nそういえば！まだバイキンマンが来てない！\nまったくどこに行ったの。\nコキンちゃんとドキンちゃんに謎のヒントを聞いてキーワードを入力しよう。",
     question: "",
     answer: "かぞくのきずな",
-    image: "images/q7.png"
+    image: "q7.png"
   },
   {
     title: "第8問",
     message: "正解！バイキンマンはここにいるよ！",
     question: "バイキンマンを見つけたら、次の指示を確認してね。",
     answer: "バイキンマン",
-    image: "images/q8.jpeg"
+    image: "q8.jpeg"
   }
 ];
 

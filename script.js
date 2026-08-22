@@ -4,7 +4,7 @@ const questions = [
     message: "まずはここからスタート！",
     question: "「スタート」と入力してね。",
     answer: "スタート",
-    image: null
+    image: "cover.jpeg"
   },
   {
     title: "第2問",

@@ -51,8 +51,8 @@ const questions = [
   {
     title: "第8問",
     message: "正解！バイキンマンはここにいるよ！",
-    question: "バイキンマンを見つけたら、次の指示を確認してね。",
-    answer: "バイキンマン",
+    question: "バイキンマンを見つけたら、「見つけた」と入力してね。",
+    answer: "見つけた",
     image: "q8.jpeg"
   }
 ];
